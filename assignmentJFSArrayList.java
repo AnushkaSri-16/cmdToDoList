@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 //Anushka Srivastav 12002704
+//Bugs:
+
+//1.how to fix, it modifies one added to the index input 
+//
 
 public class assignmentJFSArrayList {
     public static void main(String[] args) {
@@ -135,11 +139,7 @@ class functionalities {
     }
 }
 
-//Bugs:
 
-//1.Waits for response(enter) after before first input
-//2.how to fix, it modifies one added to the index input 
-//
 
 
 
